@@ -1,2 +1,3 @@
-# Jupyter_CW_K-Means
-ClassWork_K-Means
+<h2>Jupyter_CW_K-Means</h2>
+
+Классная работа по теме "Работа с данными, принцип K-Means"
